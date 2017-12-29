@@ -2,7 +2,7 @@
 
 ## Viewing
 
-Open the (notebook)[String cover.ipynb] on Github.
+Open the [notebook](String cover.ipynb) on Github.
 
 ## Editing
 
